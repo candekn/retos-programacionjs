@@ -1,22 +1,19 @@
-# manzdev-retos-titulo
+# manzdev: Retos
 
 🌍 **URL del reto**: *https://lenguajejs.com/retos/nivel-facil/basic-card/*
 
 ## Datos
 
-- 🦄 **Desarrollador/a:** *Nombre*
-- 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil:** *Novato / Bajo / Medio / Avanzado / Experto*
-- 💬 **Un comentario breve o frase ingeniosa**: *-*
+- 🦄 **Desarrollador/a:** Cande
+- 🐇 **Link a red social:** *https://www.linkedin.com/in/delgadorosariocandelaria/*
+- 🦾 **Perfil:** *Medio*
+- 💬 **Un comentario breve o frase ingeniosa**: *Malo si lo haces, malo si no lo haces(?)*
 
 ## Observaciones
 
 *Escribe aquí tus observaciones sobre la implementación*
 
 > Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
-
----
-*Puedes borrar todo desde esta línea en adelante*
 
 ---
 
